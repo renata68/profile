@@ -9,3 +9,7 @@ My goal is to keep the design minimal, soft, and easy to read while learning the
 The page will gradually evolve as I continue improving my skills.
 
 You are welcome to explore it!
+
+## Live Demo
+You can view the live version of this page here:
+https://renata-profile.vercel.app/ 
