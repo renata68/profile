@@ -12,4 +12,4 @@ You are welcome to explore it!
 
 ## Live Demo
 You can view the live version of this page here:
-https://renata-profile.vercel.app/ 
+https://renata-profile.vercel.app/
